@@ -1,0 +1,19 @@
+.features-section {
+    background-color: #ffffff;
+    text-align: inherit;
+}
+
+.features-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+
+.features-text {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
