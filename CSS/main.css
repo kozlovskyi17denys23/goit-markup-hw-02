@@ -5,3 +5,7 @@
 @import './team.css';
 @import './portfolio.css';
 @import './footer.css';
+
+.features-title {
+    text-align: left;
+}
